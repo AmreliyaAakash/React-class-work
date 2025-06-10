@@ -1,0 +1,82 @@
+[
+  {
+    "item_name": "Leather Wallet",
+    "description": "Slim leather wallet with RFID blocking and multiple card slots",
+    "price": 29.95,
+    "rating": 3.7,
+    "category": "Accessories",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2467292843/display_1500/stock-photo-credit-cards-in-leather-wallet-on-grey-textured-table-top-view-2467292843.jpg"
+  },
+  {
+    "item_name": "Digital Kitchen Scale",
+    "description": "Precision kitchen scale with tare function and backlit display",
+    "price": 17.49,
+    "rating": 4.4,
+    "category": "Home Appliances",
+    "image": "https://www.shutterstock.com/shutterstock/photos/1631401288/display_1500/stock-photo-dry-penne-pasta-in-glass-bowl-on-gray-digital-kitchen-scales-near-bowl-with-red-cherry-tomatoes-1631401288.jpg"
+  },
+  {
+    "item_name": "Running Shoes",
+    "description": "Lightweight breathable running shoes for men and women",
+    "price": 64.99,
+    "rating": 2.1,
+    "category": "Footwear",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2363181737/display_1500/stock-photo-white-sneaker-isolated-on-white-background-men-s-fashion-sport-shoe-air-sneakers-lifestyle-2363181737.jpg"
+  },
+  {
+    "item_name": "Smart Watch",
+    "description": "Water-resistant smart watch with heart rate monitor and GPS",
+    "price": 99.95,
+    "rating": 4.6,
+    "category": "Wearables",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2365737267/display_1500/stock-photo-mid-adult-man-using-smart-watch-during-training-heart-monitor-beats-with-wristwatch-smart-watch-2365737267.jpg"
+  },
+  {
+    "item_name": "Camping Tent",
+    "description": "4-person waterproof tent with easy setup and ventilation windows",
+    "price": 120.00,
+    "rating": 4.3,
+    "category": "Outdoor",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2407799521/display_1500/stock-photo-camping-tent-with-different-hiking-equipment-indoors-2407799521.jpg"
+  },
+  {
+    "item_name": "Electric Toothbrush",
+    "description": "Rechargeable electric toothbrush with multiple cleaning modes",
+    "price": 39.99,
+    "rating": 1.5,
+    "category": "Personal Care",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2347570361/display_1500/stock-photo-electric-toothbrushes-towel-and-leaves-on-grey-textured-table-top-view-space-for-text-2347570361.jpg"
+  },
+  {
+    "item_name": "Office Chair",
+    "description": "Ergonomic office chair with lumbar support and breathable mesh",
+    "price": 149.99,
+    "rating": 4.2,
+    "category": "Furniture",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2454117213/display_1500/stock-photo-a-contemporary-office-meeting-room-featuring-stylish-chairs-around-a-conference-table-emphasizing-2454117213.jpg"
+  },
+  {
+    "item_name": "Blender",
+    "description": "High-speed blender for smoothies, soups, and sauces",
+    "price": 59.90,
+    "rating": 4.4,
+    "category": "Kitchen",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2499974159/display_1500/stock-photo-woman-making-delicious-smoothie-with-blender-at-white-marble-table-in-kitchen-closeup-2499974159.jpg"
+  },
+  {
+    "item_name": "Gaming Keyboard",
+    "description": "RGB mechanical keyboard with customizable keys and lighting",
+    "price": 79.95,
+    "rating": 4.8,
+    "category": "Electronics",
+    "image": "https://www.shutterstock.com/shutterstock/photos/1949862841/display_1500/stock-photo-gamer-work-space-concept-top-view-a-gaming-gear-mouse-keyboard-joystick-and-headset-with-rgb-1949862841.jpg"
+  },
+  {
+    "item_name": "Notebook",
+    "description": "Hardcover dotted notebook for journaling or sketching",
+    "price": 9.99,
+    "rating": 4.0,
+    "category": "Stationery",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2513136501/display_1500/stock-photo-spiral-notebook-with-pen-and-laptop-kept-on-table-at-cafeteria-2513136501.jpg"
+  }
+]

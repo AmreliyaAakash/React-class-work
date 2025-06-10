@@ -11,7 +11,7 @@ function Card() {
                 <p className="detail">Grand prize in Cayo Perico heist in GTA5 Online</p>
                 <button>View Details</button>
             </div>
-        </div>
+      ``  </div>
     )
 }
 export default Card
